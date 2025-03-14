@@ -1,11 +1,10 @@
 ## Hi there 👋
-##welcomle to ahmCoder
+
+
+# welcomle to ahmCoder
 
 ## 📬 تواصل معي
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🐦 [Twitter](https://twitter.com/yourprofile)  
-📧 البريد الإلكتروني: your.email@example.com
-
+🐦 [Twitter](https://x.com/AhmCoder)  
 <!--
 **AhmCoder/AHMcoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
